@@ -17,7 +17,7 @@ from AnonX.utils.decorators.language import language, languageCB
 from AnonX.utils.inline.playlist import (botplaylist_markup,
                                               get_playlist_markup,
                                               warning_markup)
-from AnonX.utils.pastebin import Yukkibin
+from AnonX.utils.pastebin import Anonbin
 from AnonX.utils.stream.stream import stream
 
 # Command
