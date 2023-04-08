@@ -8,7 +8,6 @@ from pyrogram.types import (InlineKeyboardButton,
 
 from config import BANNED_USERS, SERVER_PLAYLIST_LIMIT
 from strings import get_command
-from strings.filters import command
 from AnonX import Carbon, YouTube, app
 from AnonX.utils.database import (delete_playlist, get_playlist,
                                        get_playlist_names,
